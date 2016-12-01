@@ -1,0 +1,37 @@
+{
+  "name": "loginapp",
+  "version": "1.0.0",
+  "description": "\"This is a User Registration and Login App developed using Node.js Express.js and Mongodb\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"Pranay Kumar\"",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "*",
+    "body-parser": "*",
+    "connect-flash": "*",
+    "cookie-parser": "*",
+    "express": "*",
+    "express-handlebars": "*",
+    "express-messages": "*",
+    "express-session": "*",
+    "express-validator": "*",
+    "mongodb": "*",
+    "mongoose": "*",
+    "passport": "*",
+    "passport-http": "*",
+    "passport-local": "*"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "\"https://github.com/pranaykumar389/loginApp\""
+  },
+  "keywords": [
+    "\"user",
+    "registration\"",
+    "\"login\""
+  ]
+}
